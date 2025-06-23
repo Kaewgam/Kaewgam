@@ -1,5 +1,6 @@
-## Hi there 👋
+## 👋 Hi! I'm Thanapat Iamsamang 👋
 
+I am currently a third-year Computer Science major in the Faculty of Science and Technology at Huachiew Chalermprakiet University.
 <!--
 **Kaewgam/Kaewgam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
